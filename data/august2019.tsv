@@ -1,0 +1,21 @@
+S.N	LOCATION	SUPPLY CHAIN	USER	COORDINATES	IMAGE	CREATED AT	DATA TAKEN AT	TEMP	PH VALUE	EC VALUE	TURBIDITY (NTU)	FRC	ECOLI PRESENCE	ECOLI NO	OTHER	DETAILS
+1	MARDI KHOLA	Spring Source	Mahesh Sigdel	28.2935 ,83.9317		Aug 30, 2019	Aug 30, 2019	26.8	8.28	125	5	0.1	PRESENT	64		least count of transparency tube was 5
+2	BHOTE KHOLA	Spring Source	Sanjita	28.2878 ,83.9539		Aug 27, 2019	Aug 27, 2019	26.8	8.38	55	5	0.1	ABSENT	0		least count of transparency tube was 5
+3	KALIMUDA	Spring Source	Ksitiz	28.278389,83.984757		Aug 27, 2019	Aug 27, 2019	26.8	8.37	275	5	0.1	ABSENT	0		least count of transparency tube was 5
+4	BINDABASINI	Reservoir Tank	Shova	28.2390 ,83.9828		Aug 14, 2019	Aug 14, 2019	25.4	6.95	120	5	0.1	PRESENT	12		least count of transparency tube was 5
+5	AMLABISAUNI (BEFORE CL)	Water Treatment Plant	Shova	28.2644 ,83.9745		Aug 14, 2019	Aug 14, 2019	26.9	7.34	1030	5	0.1	PRESENT	5		least count of transparency tube was 5
+6	AMLABISAUNI (AFTER CL)	Water Treatment Plant	Shova	28.2644 ,83.9745		Aug 14, 2019	Aug 14, 2019	29.2	7.74	145	5	0.1	PRESENT	3		least count of transparency tube was 5
+7	WRC	Water Distribution Line	Shova	28.254122,83.976443		Aug 14, 2019	Aug 14, 2019	25.6	7.12	100	5	0.1	PRESENT	20		least count of transparency tube was 5
+8	PN CAMPUS	Water Distribution Line	Shova	28.239345,83.991206		Aug 14, 2019	Aug 14, 2019	25.6	6.97	65	5	0.1	PRESENT	22		
+9	NAYABAJAR	Water Distribution Line	Sarbendra	28.2142 ,83.9883		Aug 14, 2019	Aug 14, 2019	28.3	8.05	175	270	0.1	PRESENT	46		least count of transparency tube was 5
+10	LAKESIDE	Water Distribution Line	Sarbendra	28.2120 ,83.9625		Aug 14, 2019	Aug 14, 2019	28.3	6.99	404	5	0.1	PRESENT	45		least count of transparency tube was 5
+11	JANAPRIYA SCHOOL	Water Distribution Line	Sarbendra	28.207678,83.976903		Aug 14, 2019	Aug 14, 2019	28.3	6.98	110	5	0.1	PRESENT	44		least count of transparency tube was 5
+12	SRIKRISHNA CHOWK	Boring Source	deepluck2@gmail.com	28.2016,83.9927		Aug 30, 2019	Aug 30, 2019	28.3	7.7	755	5	0.1	ABSENT	0		least count of transparency tube was 5
+13	PATENBESI	Water Distribution Line	anjanakunwar555@gmail.com	28.2165 ,84.0255		Aug 30, 2019	Aug 30, 2019	26	8.27	155	6	0.1	ABSENT	0		least count of transparency tube was 5
+14	CHINEDADA	Water Distribution Line	anjanakunwar555@gmail.com	28.1814 ,84.0131		Aug 30, 2019	Aug 30, 2019	27.4	7.38	600	5	0.1	ABSENT	0		least count of transparency tube was 5
+15	FULBARI	Boring Source	khadkaamisha71@gmail.com	28.2299 ,83.9997		Aug 27, 2019	Aug 27, 2019	27	8.25	200	5	0.1	PRESENT	60		least count of transparency tube was 5
+16	AMARSINGH	Boring Source	Amisha	28.2043 ,84.0035		Aug 27, 2019	Aug 27, 2019	27.6	7.36	605	5	0.1	PRESENT	103		least count of transparency tube was 5
+17	PARDI	Water Distribution Line	engineerme2075@gmail.com	28.1992 ,83.9714		Aug 17, 2019	Aug 17, 2019	27.6	7.22	575	5	0.1	ABSENT	0		least count of transparency tube was 5
+18	HIMALI TOLE	Boring Source	engineerme2075@gmail.com	28.1933 ,83.9753		Aug 17, 2019	Aug 17, 2019	27.6	7.33	640	5	0.1	ABSENT	0		least count of transparency tube was 5
+19	CHOREPATAN	Water Distribution Line	engineerme2075@gmail.com	28.1880 ,83.9676		Aug 17, 2019	Aug 17, 2019	27.6	6.98	825	5	0.1	ABSENT	0		least count of transparency tube was 5
+20	CHAUTHE	Water Distribution Line	Irsad	28.1831 ,84.0230		Aug 17, 2019	Aug 17, 2019	27.6	8.13	305	5	0.1	ABSENT	0		least count of transparency tube was 5
