@@ -1,0 +1,12 @@
+S.N	LOCATION	SUPPLY CHAIN	USER	COORDINATES	IMAGE	CREATED AT	DATA TAKEN AT	Temp	PH VALUE	EC VALUE	TURBIDITY (NTU)	FRC	ECOLI PRESENCE	ECOLI NO	OTHER	DETAILS
+2	GHATTE KHOLA	Spring Source	Mahesh Sigdel	28.287339,83.860833		Nov 28, 2019	Nov 28, 2019	21	7.62	125	5		Present	53		
+3	BHOTE KHOLA	Spring Source	Sanjita	28.2878 ,83.9539		Nov 25, 2019	Nov 25, 2019	27	7.21	30	5		Absent	0		
+4	KALIMUDA	Spring Source	Ksitiz	28.278389,83.984757		Nov 25, 2019	Nov 25, 2019	26.1	7.1	215	5		Absent	0		
+5	BINDABASINI	Reservoir Tank	Shova	28.2390 ,83.9828		Nov 25, 2019	Nov 25, 2019	20	8.62	190	5		Present	40		
+6	AMLABISAUNI (BEFORE CL)	Water Treatment Plant	Shova	28.2644 ,83.9745		Nov 25, 2019	Nov 25, 2019	20.9	8.76	400	5		Absent	0		
+7	AMLABISAUNI (AFTER CL)	Water Treatment Plant	Shova	28.2644 ,83.9745		Nov 25, 2019	Nov 25, 2019	21	9.3	440	5		Absent	0		
+8	WRC	Water Distribution Line	Shova	28.254122,83.976443		Nov 25, 2019	Nov 25, 2019	20.1	8.63	285	20		Present	8		
+9	PN CAMPUS	Water Distribution Line	Shova	28.239345,83.991206		Nov 25, 2019	Nov 25, 2019	19.6	8.59	190	5		Present	1		
+10	PARDI	Water Distribution Line	engineerme2075@gmail.com	28.1992 ,83.9714		Nov 25, 2019	Nov 25, 2019	21.4	7.44	840	5		Absent	0		
+11	HIMALI TOLE	Boring Source	engineerme2075@gmail.com	28.1933 ,83.9753		Nov 25, 2019	Nov 25, 2019	21.8	7.33	930	5		Present			
+12	CHOREPATAN	Water Distribution Line	engineerme2075@gmail.com	28.1880 ,83.9676		Nov 25, 2019	Nov 25, 2019	21.2	7.6	110	5		Present			

@@ -1,0 +1,21 @@
+S.N	LOCATION	SUPPLY CHAIN	USER	COORDINATES	IMAGE	CREATED AT	DATA TAKEN AT	Temp	PH VALUE	EC VALUE	TURBIDITY (NTU)	FRC	ECOLI PRESENCE	ECOLI NO	OTHER	DETAILS
+1	MARDI KHOLA	Spring Source	Mahesh Sigdel	28.2935 ,83.9317		Oct 20, 2019	Oct 20, 2019									
+2	GHATTE KHOLA	Spring Source	Mahesh Sigdel	28.287339,83.860833		Oct 20, 2019	Oct 20, 2019									
+3	BHOTE KHOLA	Spring Source	Sanjita	28.2878 ,83.9539		Oct 23, 2019	Oct 23, 2019	27.9	8.38	55	5	0.1				
+4	KALIMUDA	Spring Source	Ksitiz	28.278389,83.984757		Oct 23, 2019	Oct 23, 2019	25.9	8.37	275	5	0.1				
+5	BINDABASINI	Reservoir Tank	Shova	28.2390 ,83.9828		Oct 23, 2019	Oct 23, 2019	28.1	8.12					32	no chlorination	
+6	AMLABISAUNI (BEFORE CL)	Water Treatment Plant	Shova	28.2644 ,83.9745		Oct 23, 2019	Oct 23, 2019									
+7	AMLABISAUNI (AFTER CL)	Water Treatment Plant	Shova	28.2644 ,83.9745		Oct 23, 2019	Oct 23, 2019									
+8	WRC	Water Distribution Line	Shova	28.254122,83.976443		Oct 23, 2019	Oct 23, 2019	27	8.31	175			PRESENT	6		
+9	PN CAMPUS	Water Distribution Line	Shova	28.239345,83.991206		Oct 23, 2019	Oct 23, 2019	19.6	8.59	125				12		
+10	NAYABAJAR	Water Distribution Line	Sarbendra	28.2142 ,83.9883		Oct 20, 2019	Oct 20, 2019									
+11	LAKESIDE	Water Distribution Line	Sarbendra	28.2120 ,83.9625		Oct 20, 2019	Oct 20, 2019									
+12	JANAPRIYA SCHOOL	Boring Source	Sarbendra	28.207678,83.976903		Oct 20, 2019	Oct 20, 2019									
+13	GHALE CHOWK	Water Distribution Line	deepluck2@gmail.com	28.2016,83.9927		Oct 20, 2019	Oct 20, 2019									
+15	PATENBESI	Water Distribution Line	anjanakunwar555@gmail.com	28.2165 ,84.0255		Oct 20, 2019	Oct 20, 2019									
+16	CHINEDADA	Water Distribution Line	anjanakunwar555@gmail.com	28.1814 ,84.0131		Oct 20, 2019	Oct 20, 2019									
+17	FULBARI	Boring Source	khadkaamisha71@gmail.com	28.2299 ,83.9997		Oct 20, 2019	Oct 20, 2019	20.7	8.21	95			PRESENT			
+18	AMARSINGH	Boring Source	khadkaamisha71@gmail.com	28.2043 ,84.0035		Oct 20, 2019	Oct 20, 2019	22.5	7.86	285			PRESENT			
+19	PARDI	Water Distribution Line	engineerme2075@gmail.com	28.1992 ,83.9714		Oct 23, 2019	Oct 23, 2019	25.1	7.4	290	5					
+20	HIMALI TOLE	Boring Source	engineerme2075@gmail.com	28.1933 ,83.9753		Oct 23, 2019	Oct 23, 2019	22.7	7.34	270	5					
+21	CHOREPATAN	Water Distribution Line	engineerme2075@gmail.com	28.1880 ,83.9676		Oct 23, 2019	Oct 23, 2019	26	8.19	90	5					
